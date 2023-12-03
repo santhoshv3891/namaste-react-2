@@ -4,6 +4,9 @@ once root.render is run it converts heading to HTML in browser
 
 */
 
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 /*Single Element*/
 const heading = React.createElement(
   "h1",
