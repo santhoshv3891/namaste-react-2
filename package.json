@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react-2",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhoshv3891/namaste-react-2.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Santhosh V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santhoshv3891/namaste-react-2/issues"
+  },
+  "homepage": "https://github.com/santhoshv3891/namaste-react-2#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
